@@ -22,5 +22,5 @@ printf("Hello Word");
 
 **Bolded Text** and _italicized text_.
 
-~~Strikethrough~~ ***
+~~Strikethrough~~ ___
 
