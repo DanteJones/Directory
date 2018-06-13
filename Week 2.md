@@ -20,3 +20,7 @@ printf("Hello Word");
 | Jordan        | Pay check is  |  $100 |
 | Scott         | Pay check is  |   $10 |
 
+**Bolded Text** and _italicized text_.
+
+~~Strikethrough~~ ***
+
