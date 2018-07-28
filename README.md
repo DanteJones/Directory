@@ -18,7 +18,7 @@
 
 [Week 7](https://github.com/DanteJones/Directory/blob/master/Week%207.md)
 
-[Week 8(Final)](https://github.com/DanteJones/Directory/blob/master/Week%208.md)
+[Week 8(Final)](https://github.com/DanteJones/Directory/blob/master/Week%208(Final).md)
 
 
 
